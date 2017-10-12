@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LatteMusic</string>
+    <string name="str_btn_play">播放</string>
+</resources>
